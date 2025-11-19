@@ -3,24 +3,24 @@ Projects:
 
 
 # 🚀 Currently working on:
-* [Motion Control Climbing Game (C#, Unity, Demo only)](http://dopesoft.itch.io/motion-control-climbing-game) - Hand tracking based climbing game - my engineering thesis project
+* [Motion Control Climbing Game (C#, Unity, Demo only)](http://dopesoft.itch.io/motion-control-climbing-game) – Hand tracking based climbing game – my engineering thesis project
 
 # 2025
-* [GymTracker (Dart/Flutter)](https://github.com/gniotaldo/GymTracker) – Training journal
-* [tidalgen (Python)](https://github.com/gniotaldo/tidalgen) – Playlist generator
-* [Babylon Mediapipe Miniprojects (JavaScript, Babylon.js, Node.js)](https://github.com/gniotaldo/Babylon-Mediapipe-Miniprojects) - Hand tracking web minigames
-* [boids (C++, OpenGL)](https://github.com/gniotaldo/boids) – Flocking simulation
-* [RHCP Song Finder (Python, NLP, Pandas)](https://github.com/gniotaldo/RHCP-Song-Finder) - Song finding tool
+* [[Desktop/Mobile] GymTracker (Dart/Flutter)](https://github.com/gniotaldo/GymTracker) – Training journal
+* [[Desktop] tidalgen (Python)](https://github.com/gniotaldo/tidalgen) – Playlist generator
+* [[Web] Babylon Mediapipe Miniprojects (JavaScript, Babylon.js, Node.js)](https://github.com/gniotaldo/Babylon-Mediapipe-Miniprojects) – Hand tracking web minigames
+* [[Desktop] boids (C++, OpenGL)](https://github.com/gniotaldo/boids) – Flocking simulation
+* [[Desktop] RHCP Song Finder (Python, NLP, Pandas)](https://github.com/gniotaldo/RHCP-Song-Finder) – Song finding tool
 
 # 2024
-* [chess_pygame (Python, Pygame)](https://github.com/gniotaldo/chess-pygame) – Chess game
-* [pygame survival (Python, Pygame)](https://github.com/gniotaldo/pygame-survival) – Survival demo
-* [kelner (Python, Pygame)](https://github.com/gniotaldo/kelner/) – Waiter game
-* [WebPhone (HTML, CSS, JavaScript)](https://github.com/gniotaldo/WebPhone) – Web mini-apps
+* [[Desktop] chess-pygame (Python, Pygame)](https://github.com/gniotaldo/chess-pygame) – Chess game
+* [[Desktop] pygame survival (Python, Pygame)](https://github.com/gniotaldo/pygame-survival) – Survival game
+* [[Desktop] kelner (Python, Pygame)](https://github.com/gniotaldo/kelner/) – Waiter game
+* [[Web] WebPhone (HTML, CSS, JavaScript)](https://github.com/gniotaldo/WebPhone) – Web mini-apps
 
 # 2023
-* [StoreManagement (C#, ASP.NET MVC 5)](https://github.com/gniotaldo/StoreManagement) – Product manager
-* [total commander (C#, Windows Forms)](https://github.com/gniotaldo/total-commander) – File manager
+* [[Web] StoreManagement (C#, ASP.NET MVC 5)](https://github.com/gniotaldo/StoreManagement) – Product manager
+* [[Desktop] total commander (C#, Windows Forms)](https://github.com/gniotaldo/total-commander) – File manager
 
 
 # Core Skills
